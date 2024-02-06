@@ -1,0 +1,93 @@
+body{
+    margin: auto;
+    width: 80%;
+}
+.navbar{
+    background-color: #466166;
+    color: black;
+}
+h1,h2{
+    color: black;
+}
+.assignments .table{
+    width: 80%; 
+    margin: auto; 
+  }
+  td,th{
+      padding: 1cm;
+  }
+  .skill1{
+    text-align: right;
+    color: black;
+    padding-right: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+.first{
+    width: 90%;
+    background-color: #3BB4CC;
+}
+.css{
+    width: 88%;
+    background-color: #4B8C99;
+}
+.tailwind{
+    width: 80%;
+    background-color: #18D9FF;
+}
+.javascript{
+    width: 75%;
+    background-color: #466166;
+}
+
+.submit :hover{
+     background-color: #466166;
+     text-decoration: none;
+     color: white;
+}
+
+ .form{
+            font-size: 20px;
+            background-color: #2DA4CC;
+            width: 50%;
+            padding: 50px 1.5rem;
+            margin-bottom: 15px;
+            border-bottom: 10px ridge #408399;
+            border-left: 30px ridge #05C1FF;
+            border-right: 30px;
+            border-left-width: 100px;
+        }
+        textarea{
+            padding:10px;
+            margin-bottom: 10px;
+        }
+        .contact input [type="submit"]{
+            border: none;
+            padding: 10px 20px;
+            width: 20%;
+            background-color: #2DA4CC;
+        }
+        .html{
+            width: 30;
+            background-color: white;
+        }
+        img{
+            width: 350px;
+            height: 350px;
+        }
+        img[src$='png']{
+            border-radius: 20px 0 20px 0;
+            border: 10px;
+        }
+        img[src$='jpg']{
+            border-radius: 20px 0 20px 0;
+            border: 10px;
+        }
+        .about{
+            text-decoration: none;
+            font-size: large;
+        }
+        .li{
+            text-decoration: none;
+            font-size: large;
+        }
